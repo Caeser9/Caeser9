@@ -46,11 +46,11 @@ Outside of coding, you’ll find me playing 🎹 piano, 🏀 basketball, or watc
 ### 🌾 [AgriNova](https://github.com/Caeser9/AgriNova)
 > A smart agriculture platform that integrates **AI**, **IoT**, and **microservices** to help farmers optimize crop performance.  
 **Stack:** Spring Boot · Django · Angular · MongoDB · InfluxDB · C++/ESP32 · MQTT  
-
+---
 ### 🗂️ [Manajero](https://github.com/Caeser9/Manajero)
 > A modern project management platform supporting multiple methodologies.  
 **Stack:** Spring Boot · Angular · MongoDB
-
+---
 ### 🎓 [Courzelo](https://github.com/Caeser9/Courzelo)
 > **Learning Management System (LMS)** – An interactive platform that allows instructors to create courses and students to learn efficiently with tracking and assessment tools.  
 **Stack:** Spring Boot · Angular · MongoDB . Python
