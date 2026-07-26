@@ -73,10 +73,6 @@ En dehors du code : 🎹 piano, 🏀 basketball, ⚽ football.
 
 ---
 
-## 📊 Statistiques GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Caeser9&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caeser9&layout=compact&theme=tokyonight)
 
 ---
 
