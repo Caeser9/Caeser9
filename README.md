@@ -1,102 +1,98 @@
-# 👋 Hi, I'm Kaycer Khouini  
+# 👋 Salut, je suis Kaycer Khouini
 
-🎯 **Software Architecture Engineer | Full Stack Developer**
+🎯 **Ingénieur en Architecture Logicielle & IoT | Full Stack & Systèmes Embarqués**
 
----
-
-## 🧩 About Me  
-
-I'm a passionate **Software Architecture Engineer** focused on building scalable and intelligent systems.  
-I love designing clean architectures, experimenting with AI integrations, and turning innovative ideas into real solutions.  
-
-💡 I recently developed **AgriNova**, an intelligent agriculture platform that helps farmers optimize their practices using AI-driven recommendations and IoT data.  
-
-Outside of coding, you’ll find me playing 🎹 piano, 🏀 basketball, or watching ⚽ football .  
+📍 Tunisie · 🟢 Ouvert aux opportunités (Software / Embedded Engineering)
 
 ---
 
-## 🛠️ Tech Stack  
+## 🧩 À propos
 
-**Languages & Frameworks**  
+Ingénieur en **architecture logicielle**, avec une double compétence en **développement full stack** et en **systèmes embarqués / IoT**.
+J'aime concevoir des architectures propres, connecter le monde physique (capteurs, microcontrôleurs) au monde logiciel (backend, cloud), et livrer des solutions robustes de bout en bout.
+
+💡 Exemples concrets : un système de pesage industriel piloté par Arduino (cellules de charge HX711, communication avec un automate Panasonic FP0-A21), une application desktop offline de gestion de quincaillerie avec licence sécurisée par signature RSA, ou encore une plateforme SaaS de suivi énergétique triphasé pour PME.
+
+Diplômé de **ESPRIT** (Architecture Logicielle) et **ISI Mahdia** (Systèmes Embarqués & IoT).
+
+En dehors du code : 🎹 piano, 🏀 basketball, ⚽ football.
+
+---
+
+## 🛠️ Stack Technique
+
+**Langages & Frameworks**
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
-**Databases & Cloud**  
+**Embarqué & IoT**
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+
+**Bases de données & Infra**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-**Architecture & Tools**  
-![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=architectural-design&logoColor=white)
-![UML](https://img.shields.io/badge/UML-00599C?style=for-the-badge)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Projets phares
 
-### 🌾 [AgriNova](https://github.com/Caeser9/AgriNova)
-> A smart agriculture platform that integrates **AI**, **IoT**, and **microservices** to help farmers optimize crop performance.  
-**Stack:** Spring Boot · Django · Angular · MongoDB · InfluxDB · C++/ESP32 · MQTT  
----
-### 🗂️ [Manajero](https://github.com/Caeser9/Manajero)
-> A modern project management platform supporting multiple methodologies.  
-**Stack:** Spring Boot · Angular · MongoDB
----
-### 🎓 [Courzelo](https://github.com/Caeser9/Courzelo)
-> **Learning Management System (LMS)** – An interactive platform that allows instructors to create courses and students to learn efficiently with tracking and assessment tools.  
-**Stack:** Spring Boot · Angular · MongoDB . Python
+### ⚙️ Automatisation Industrielle par Cellule de Charge
+> Système de pesage industriel : cellules de charge HX711, écran LCD I2C, machine à états 4 relais, sortie analogique vers automate Panasonic FP0-A21.
+**Stack :** C/C++ · Arduino · HX711 · I2C
 
----
+### 🔐 Gestionnaire de Licences (Electron Apps)
+> Système de vérification de licence offline pour applications desktop, avec signature RSA, stockage local sécurisé et période de grâce.
+**Stack :** Electron · Node.js · RSA · electron-store
 
-### 💼 [JobTopia](https://github.com/Caeser9/JobTopia)
-> **Freelancing Platform** – Connects freelancers and clients with smart project matching, secure payments, and user-friendly dashboards.  
-**Stack:** Java · Symfony · MySql   
+### 🧾 Gestionnaire-Quincaillerie
+> Application desktop offline de gestion pour magasin de quincaillerie : facturation PDF, gestion de stock, licence intégrée.
+**Stack :** Electron · React · MongoDB · pdf-lib
 
----
+### ⚡ KlimaLink
+> Plateforme SaaS de suivi énergétique triphasé pour PME tunisiennes, avec capteurs de courant SCT013 et acquisition STM32.
+**Stack :** STM32 · Python · ADC/DMA · SCT013
 
-### 🧠 [Pinops Talent](https://github.com/Caeser9/Pinops-Talent)
-> **AI-Powered Recruitment Platform** – Helps HR teams identify and evaluate the best candidates using intelligent ranking and profile analysis.  
-**Stack:** NodeJs · ReactJs · Postgresql   
+### 🛒 [produitsurmesure.fr](https://produitsurmesure.fr)
+> Site e-commerce full stack déployé en production (VPS), avec reverse proxy Nginx, SSL Certbot, PM2 et systemd.
+**Stack :** Next.js · Spring Boot · MongoDB
 
 ---
 
----
-
-## 📊 GitHub Stats  
+## 📊 Statistiques GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Caeser9&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caeser9&layout=compact&theme=tokyonight)
 
 ---
 
-## 🧠 Currently Learning  
+## 🧠 En cours d'apprentissage
 
-- 🧩 **System Design & Clean Architecture**  
-- 🌐 **Go + React Full Stack Development**  
-- 🤖 **AI Models for Agriculture Optimization**
+- 🧩 Système Design & Clean Architecture
+- 🌐 Go + React Full Stack
+- 🔧 IoT industriel avancé (protocoles, edge computing)
 
 ---
 
-## 🤝 Connect with Me  
+## 🤝 Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/kaycer-khouini-1545b927b))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaycer-khouini-1545b927b)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaycerkhouini99@gmail.com)
 
 ---
 
-## 🐍 GitHub Contribution Snake  
-
-![Snake animation](https://github.com/Caeser9/Caeser9/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### ✨ “Architecting solutions that connect intelligence, data, and people.”  
+### ✨ *"Architecturer des solutions qui connectent l'intelligence, la donnée et le monde physique."*
